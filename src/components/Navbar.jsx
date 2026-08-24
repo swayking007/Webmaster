@@ -62,7 +62,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 no-underline">
           <span className="gradient-text text-xl md:text-2xl font-extrabold tracking-tight">
-            SWAYNEX
+            WEBMASTER
           </span>
         </Link>
 

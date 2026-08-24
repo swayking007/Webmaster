@@ -52,7 +52,7 @@ export default function Features() {
             Why Choose Us
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">
-            Why <span className="gradient-text">Swaynex</span>?
+            Why <span className="gradient-text">Webmaster</span>?
           </h2>
           {/* Divider line */}
           <div className="section-divider" />

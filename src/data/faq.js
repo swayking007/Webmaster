@@ -1,8 +1,8 @@
 const faqs = [
   {
-    question: "What is Swaynex?",
+    question: "What is Webmaster?",
     answer:
-      "Swaynex is a platform that provides structured, project-based virtual internship experiences to help students transform theoretical knowledge into practical, industry-relevant skills. Each internship is designed to simulate real-world work environments.",
+      "Webmaster is a platform that provides structured, project-based virtual internship experiences to help students transform theoretical knowledge into practical, industry-relevant skills. Each internship is designed to simulate real-world work environments.",
   },
   {
     question: "Who can apply?",
@@ -22,7 +22,7 @@ const faqs = [
   {
     question: "How does Certificate Verification work?",
     answer:
-      "Each certificate issued by Swaynex has a unique Certificate ID (e.g. CA/01/387). Anyone — recruiters, universities, or the student themselves — can verify the authenticity of a certificate by entering this ID on our Verify Certificate page.",
+      "Each certificate issued by Webmaster has a unique Certificate ID (e.g. CA/01/387). Anyone — recruiters, universities, or the student themselves — can verify the authenticity of a certificate by entering this ID on our Verify Certificate page.",
   },
   {
     question: "Are the certificates free?",

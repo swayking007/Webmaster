@@ -6,7 +6,7 @@ const links = [
   {
     icon: HiMail,
     label: "Email Us",
-    href: "mailto:contact@swaynex.com",
+    href: "mailto:contact@webmaster.com",
   },
   {
     icon: FaLinkedinIn,

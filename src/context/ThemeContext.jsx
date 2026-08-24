@@ -6,7 +6,7 @@ export function ThemeProvider({ children }) {
   const [theme, setTheme] = useState(() => {
     // Check localStorage, fallback to "dark"
     if (typeof window !== "undefined") {
-      return localStorage.getItem("swaynex-theme") || "dark";
+      return localStorage.getItem("webmaster-theme") || "dark";
     }
     return "dark";
   });
@@ -14,7 +14,7 @@ export function ThemeProvider({ children }) {
   useEffect(() => {
     const root = document.documentElement;
     root.setAttribute("data-theme", theme);
-    localStorage.setItem("swaynex-theme", theme);
+    localStorage.setItem("webmaster-theme", theme);
   }, [theme]);
 
   const toggleTheme = () => {

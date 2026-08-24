@@ -35,7 +35,7 @@ export default function Footer() {
           {/* Logo */}
           <Link to="/" className="no-underline">
             <span className="gradient-text text-2xl font-extrabold tracking-tight block mb-3">
-              SWAYNEX
+              WEBMASTER
             </span>
             <p className="text-text-secondary text-sm leading-relaxed max-w-sm">
               Empowering students through project-based virtual internships,
@@ -72,7 +72,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <p className="text-text-muted text-xs">
-            © {new Date().getFullYear()} Swaynex. All rights reserved.
+            © {new Date().getFullYear()} Webmaster. All rights reserved.
           </p>
         </div>
       </div>

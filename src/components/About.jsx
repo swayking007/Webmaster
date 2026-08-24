@@ -28,7 +28,7 @@ export default function About() {
               <span className="gradient-text">Beyond Classrooms</span>
             </h2>
             <p className="text-text-secondary text-base md:text-lg leading-relaxed mb-4">
-              Swaynex connects students with structured, project-based
+              Webmaster connects students with structured, project-based
               internship experiences that help them transform theoretical
               knowledge into practical skills.
             </p>
